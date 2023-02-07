@@ -1,2 +1,3 @@
 # CSS-Menu
-I start learning CSS. This tutorial help me: https://youtu.be/OXGznpKZ_sA
+I start learning CSS.
+Check result: https://kaveandrew.github.io/CSS-Menu/
